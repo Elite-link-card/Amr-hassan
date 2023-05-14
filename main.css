@@ -2249,7 +2249,7 @@ fieldset {
     will-change: transform;
     z-index: 2;
     left: 5%;
-    transform: translateX(110px) translateY(25px);
+    transform: translateX(100px) translateY(25px);
     
 }
 
@@ -2359,6 +2359,7 @@ fieldset {
 .user-details .user-identity {
     margin-top: -70px;
     margin-bottom: .5rem;
+    
 }
 
 .user-details .user-name {
@@ -2375,7 +2376,7 @@ fieldset {
     font-size: 1.0rem;
     font-weight: 400;
     line-height: 1.2;
-    transform: translateX(-50px);
+    transform: translateX(-45px);
     color: rgb(247, 247, 247);
     white-space: pre-wrap
 
