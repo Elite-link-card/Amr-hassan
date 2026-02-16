@@ -2385,7 +2385,7 @@ to {top: 75px;}
 
 .left-picture[data-image-type="profile"]::before {
   content: "";
-  background-color: #8e0b0b;
+  background-color: #856808;
   width: calc(100% + 2 * 3px);
   height: calc(100% + 2 * 3px);
   position: absolute;
